@@ -5,7 +5,7 @@ Hello, Everyone. Thank you for having a look at my profile
 I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
 TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
 
-Here is a list of what I've worked with:
+Here is the list of frameworks and languages what I've worked with before.
 
 - Front-end Skills: React, Angular 2+, Vue2, Vue3 , JavaScript/jQuery,
   HTML5, CSS3, Bootstrap
