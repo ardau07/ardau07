@@ -27,7 +27,7 @@ Here is the list of frameworks and languages what I've worked with before.
 - Blockchain: NFT marketplace, Cryptocoins Exchainge Development
   Smart Contracts(Solidity), Token Development based on Ethereum, Binance
 
-## 📊 Github Stats
+### 📊 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <summary>💻 GitHub Profile Stats</summary>
@@ -43,17 +43,12 @@ Here is the list of frameworks and languages what I've worked with before.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Arda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ardau07&custom_title=Arda%20Unverdi's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
-### About Myself<br/>
-
-- 💗	I am friendly to work with.
-- 💗	Commitment is commitment.
-- 💗	Honesty and dedication.
-- 💗	Reliability and Communication is well maintained.
-
-#### How to reach me
+<h4>How to reach out to me</h4>
 <code><img src="https://user-images.githubusercontent.com/68467379/156589277-4141e6b0-abc0-457a-a237-edbf1e33d3e7.png?raw=true" width="20" height="20"/></code>
 <code><img src="https://user-images.githubusercontent.com/68467379/156588352-bed86522-7c93-4726-ad82-fc3d641299a1.png?raw=true" width="20" height="20"/></code>
 <code><img src="https://user-images.githubusercontent.com/68467379/156589760-061d5e38-b92e-4a5e-bda0-800a530be410.png?raw=true" width="20" height="20"/></code>
+<br/><br/>
+
 
 ```javascript
 const Arda U = {
@@ -62,6 +57,7 @@ const Arda U = {
 	phone: "+90 5427448140"
 }
 ```
+
 
 ### Languages and Tools:
 
