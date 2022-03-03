@@ -1,6 +1,6 @@
 ## Arda Unverdi - Talented Senior Full-Stack Developer 👍
 
-### Hello, Everyone. Thank you for having a look at my profile
+Hello, Everyone. Thank you for having a look at my profile
 
 I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
 TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
