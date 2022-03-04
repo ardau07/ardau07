@@ -1,6 +1,6 @@
 <img src="https://gpvc.arturio.dev/ardau07" alt="Profile views" align='right'/> <a href="https://github.com/ardau07/ardau07/"> </a>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Talented+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-<hr/>
+<br/>
 <samp>
 I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
 TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
