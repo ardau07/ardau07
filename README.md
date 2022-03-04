@@ -42,7 +42,7 @@ Here is the list of frameworks and languages what I've worked with before.
 
 ```javascript
 const Arda U = {
-	gmail: "toptalent0107@gmail.com",
+	gmail: "ardaunverdi07@gmail.com",
 	skype: "live:.cid.3c5d1d664d63a84e",
 	phone: "+90 5427448140"
 }
