@@ -1,5 +1,5 @@
 <h3 align="center">⭐⭐⭐⭐⭐ Arda Unverdi - Talented Senior Full-Stack Developer⭐⭐⭐⭐⭐</h3>
-<img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> 
+<img src="https://gpvc.arturio.dev/ardau07" alt="Profile views" align='right'/> <a href="https://github.com/ardau07/ardau07/"> </a> 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Talented+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
